@@ -1,0 +1,44 @@
+.title{
+    text-shadow: 2px 2px blue;
+}
+
+img{
+    width:600px
+}
+.main{
+    width: 50%;
+    height: 50px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    
+}
+p{
+    line-height: 20px;
+    word-spacing: 5px;
+}
+#video-container{
+    display: none;
+    background-color: black;
+}
+.btn{
+    margin: 10px;
+    
+}
+#close{
+    position: absolute;
+    top: 50px;
+    right:30px;
+    color:red;
+    font-size: 48px;
+    cursor: pointer;
+}
+video{
+    position: absolute;
+    top: 25%;
+    left:10%;
+    width:75%;
+    
+     
+}
