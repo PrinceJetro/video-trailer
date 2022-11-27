@@ -59,3 +59,10 @@ iframe{
         height: 90%;
     }
   }
+
+  .border{
+    width:50%;
+    height: 10px;
+    background-color:blue;
+    margin-top: 5px;
+  }
