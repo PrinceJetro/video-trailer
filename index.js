@@ -71,37 +71,44 @@ function first(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[0].video_link;
+    document.body.style.backgroundColor="black"
 }
 function second(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[1].video_link;
+    document.body.style.backgroundColor="black"
 }
 function third(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[2].video_link;
+    document.body.style.backgroundColor="black"
 }
 function fourth(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[3].video_link;
+    document.body.style.backgroundColor="black"
 }
 
 function fifth(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[4].video_link;
+    document.body.style.backgroundColor="black"
 }
 
 function sixth(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[5].video_link;
+    document.body.style.backgroundColor="black"
 }
 
 function seventh(){
     document.getElementById("video-container").style.display="block";
     document.getElementById("main").style.display="none";
     document.getElementById('only-video').src=video_things[6].video_link;
+    document.body.style.backgroundColor="black"
 }
