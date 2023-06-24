@@ -2,13 +2,14 @@
     text-shadow: 2px 2px blue;
 }
 
-img{
+#first-pic,#third-pic,#second-pic{
     width:100%;
-    height:3000px;
+    height:500px;
     margin-top: 20px;
 }
 .movies{
    border:1px solid blue ;
+   height: 850px;
     
 }
 
